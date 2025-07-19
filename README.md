@@ -115,13 +115,8 @@ pip install streamlit langchain transformers sentence-transformers faiss-cpu uns
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
-- 👨‍💻 [Your Name](https://github.com/your-username)
-- 📫 Feel free to connect with me for questions or collaborations.
+- 👨‍💻 Dharsana R
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
